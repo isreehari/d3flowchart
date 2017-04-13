@@ -1,0 +1,28 @@
+{
+  "name": "d3flowchart",
+  "description": "Flowchart design with d3.",
+  "main": "",
+  "keywords": [
+    "Flowchart",
+    "D3",
+    "Flowchart",
+    "D3"
+  ],
+  "authors": [
+    "isreehari"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.7.4",
+    "angular": "angularjs#^1.6.4"
+  }
+}
